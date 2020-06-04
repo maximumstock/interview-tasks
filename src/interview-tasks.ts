@@ -11,4 +11,8 @@ export default class InterviewTasks {
     fibonacci(n: number): number[] {
         return [];
     }
+
+    anagram(a: string, b: string): boolean {
+        return;
+    }
 }
