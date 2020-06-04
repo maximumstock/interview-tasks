@@ -12,6 +12,9 @@ export default class InterviewTasks {
         return [];
     }
 
+    // A word is an anagram of another word if both use the same letters in the same quantity,
+    // but arranged differently.
+    // input: a = 'fried' b = 'fired'
     anagram(a: string, b: string): boolean {
         return;
     }
